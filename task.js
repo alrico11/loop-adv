@@ -25,7 +25,7 @@ for (let i=0;i<=arr.length;i++){
         }
     }
 }
-
+console.log("======================================");
 //Soal 2
 let str1 = "hello",
 str2 = "world"
